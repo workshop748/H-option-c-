@@ -1,2 +1,2 @@
-# H-option-c-
-I am in the honors program At my university, I wanted to challenge myself by creating some malware. So i am learning ascyn programing and malware crafting concepts.
+# Ascyn-File Seaarcher malware( for educational purposes)
+I am currently enrolled through my colleges Honnors program. I had the option to do a thing called an h-option. Through this, I was able to create a very basic malware that would get all the local users on a machine. Once it got all the users, It would began to search through each directory using a breath first search algorithm to find new files and new directories. If it found a directory, It would then search that till it reached the end. After this search was completed. it would take the jagged list, and call encryptedFileA to encode the file.
